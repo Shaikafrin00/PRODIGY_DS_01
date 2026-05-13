@@ -24,6 +24,7 @@ The dashboard provides insights into:
 - Male vs Female passengers
 - Average age
 - Total passengers
+titanic_dashboard.png<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/241802ba-9ad0-466f-b645-9d874ab3a972" />
 
 ### Author
 Shaik Afrin
