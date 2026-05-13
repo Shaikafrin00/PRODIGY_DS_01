@@ -19,6 +19,8 @@ Create visualizations using Python to analyze Titanic passenger data.
 - Passenger Analysis Dashboard
 
 ### Output
+titanic_dashboard.png<img width="1920" height="985" alt="task 1 output" src="https://github.com/user-attachments/assets/710d2d1c-224a-46ec-88f9-983881e0ffcd" />
+
 The dashboard provides insights into:
 - Passenger age distribution
 - Male vs Female passengers
